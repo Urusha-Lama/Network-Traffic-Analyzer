@@ -1,0 +1,20 @@
+# Python virtual environment
+pkts/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs & uploads
+uploads/
+*.log
+
+# IDE
+.vscode/
+.idea/
