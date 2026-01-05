@@ -100,17 +100,6 @@ SOC dashboard simulation
 
 Portfolio project for cybersecurity roles
 
-🔮 Future Enhancements
-
-DDoS and port-scan detection
-
-Time-based traffic analysis
-
-PDF security report generation
-
-Live packet capture (no CSV required)
-
-Authentication and admin dashboard
 
 👤 Author
 
